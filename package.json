@@ -1,0 +1,22 @@
+{
+  "name": "mern-shop",
+  "version": "1.0.0",
+  "description": "mern shopping cart React/Node/Redux",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coach7290/PROSHOP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coach7290/PROSHOP/issues"
+  },
+  "homepage": "https://github.com/coach7290/PROSHOP#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
